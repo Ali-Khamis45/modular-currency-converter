@@ -35,3 +35,6 @@ This project demonstrates treating AI as a **Junior Developer** using:
 4. CLI Interface Layer
 
 ---
+## 📸 Demo
+
+![CLI Demo](assets/demo.png)
